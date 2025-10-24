@@ -27,7 +27,7 @@ Usar y mejorar tu historial de Git
 ::: {.absolute left="5%" bottom="5%"  style="font-size:1.2em; padding: 0.5em 1em; background-color: rgba(255, 255, 255, .8);"}
 Maëlle Salmon
 
-<https://happyr-git.netlify.app>
+<https://historial-git.netlify.app>
 :::
 
 ::: {.notes}
@@ -423,7 +423,7 @@ Tobogán <https://www.pexels.com/photo/metal-slide-2326027/>
 ::: {.absolute left="5%" top="5%"  style="font-size:1.4em; padding: 0.5em 1em; background-color: rgba(255, 255, 255, .8);"}
 Gracias ! :blue_heart:
 
-<https://happyr-git.netlify.app>
+<https://historial-git.netlify.app>
 
 <https://docs.ropensci.org/saperlipopette/>
 :::
