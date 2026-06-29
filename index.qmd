@@ -431,16 +431,3 @@ Gracias ! :blue_heart:
 ::: {.notes}
 Engranajes <https://www.pexels.com/photo/colorful-toothed-wheels-171198/>
 :::
-
-
-## Ressources Git pour les débutants (Anglais)
-
-- "What they forgot to teach you about R" [now](https://github.com/rstats-wtf/wtf-version-control-slides) and [then](https://github.com/rstudio-conf-2022/wtf-rstats/tree/main/materials).
-
-- [Happy Git and GitHub for the useR](https://happygitwithr.com/)
-
-- Julia Evans' zines ["Oh shit, Git!"](https://wizardzines.com/zines/oh-shit-git/) and ["How Git works"](https://wizardzines.com/zines/git/)
-
-- Book [Git in Practice](https://www.manning.com/books/git-in-practice) by Mike McQuaid ([reading notes](https://masalmon.eu/2023/11/01/reading-notes-git-in-practice/))
-
-- Book [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon ([reading notes](https://masalmon.eu/2024/01/19/pro-git-scott-chacon-reading-notes/))
