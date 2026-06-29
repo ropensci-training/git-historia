@@ -118,7 +118,7 @@ Esto sólo funciona bien si el commit es pequeño.
 
 Recordatorio de nuestra primera sesión de Git. :wink:
 
-10 minutos
+5 minutos (en la sala principal)
 
 ```r
 withr::local_language("es")
@@ -327,10 +327,6 @@ withr::local_language("es")
 dir  <- withr::local_tempdir()
 saperlipopette::exo_split_changes(dir)
 ```
-
-## Descanso 😮‍💨 {.center}
-
-5 minutos
 
 ## "Empezar de cero": práctica {.center}
 
