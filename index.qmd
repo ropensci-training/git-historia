@@ -342,6 +342,10 @@ dir  <- withr::local_tempdir()
 saperlipopette::exo_reset(dir)
 ```
 
+## "Mezcla y combina tus commits" {.center}
+
+`git rebase -i`
+
 ## "Mezcla y combina tus commits": práctica {.center}
 
 `git rebase -i`
