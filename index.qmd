@@ -314,7 +314,7 @@ saperlipopette::exo_one_small_change(dir)
 
 - `git reset --mixed` Cambios en los archivos *pero no en el historial de Git*.
 
-- `git add (--patch)` Buenos comentarios, en retrospectiva.
+- `git add (--patch)` Buenos commits, en retrospectiva.
 
 :::
 
