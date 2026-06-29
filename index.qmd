@@ -264,7 +264,7 @@ saperlipopette::exo_one_small_change(dir)
 
 ::: {.incremental}
 
-- Primera parte del trabajo, `git commit -m "feat: ajoute truc cool"`
+- Primera parte del trabajo, `git commit -m "feat: añade cosa buena"`
 
 - Segunda parte del trabajo, `git commit --amend --no-edit`
 
@@ -280,7 +280,7 @@ saperlipopette::exo_one_small_change(dir)
 
 - `git checkout -b 'feature-cool'`
 
-- Primera parte del trabajo, `git commit -m "feat: ajoute truc cool"`, `git push`
+- Primera parte del trabajo, `git commit -m "feat: añade cosa buena"`, `git push`
 
 - Segunda parte del trabajo, `git commit --amend --no-edit`, `git push -f`
 
