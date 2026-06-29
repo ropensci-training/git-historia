@@ -389,21 +389,6 @@ Mejor historial, en particular para
 
 :::
 
-## ¿Qué herramientas para Git ?
-
-::: {.incremental}
-
-- La terminal : no cambia, y aprendes las palabras.
-
-- RStudio IDE
-
-- Positron IDE, con la extensión GitLens
-
-- Otras IDE
-
-- GitHub Desktop
-
-:::
 
 ## {background-image="playground.jpg"}
 
