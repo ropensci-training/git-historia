@@ -221,9 +221,6 @@ saperlipopette::exo_bisect(dir)
 
 Mike McQuaid, [Git in practice](https://www.manning.com/books/git-in-practice)
 
-## Descanso 😮‍💨 {.center}
-
-5 minutos
 
 ## Cómo obtener un bueno historial de Git
 
@@ -257,6 +254,10 @@ withr::local_language("es")
 dir  <- withr::local_tempdir()
 saperlipopette::exo_one_small_change(dir)
 ```
+
+## Descanso 😮‍💨 {.center}
+
+5 minutos
 
 ## "La repetida enmienda"™️ : </br>`git commit --amend`
 
